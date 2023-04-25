@@ -1,3 +1,19 @@
-Description & Tech stack: 
+## Project Title
 
-Chat application using socket.io, node.js, express.js and React.
+Socket Chat app
+
+## Dependencies
+
+- Node.js
+- Express.js
+- Socket.io
+- React.js
+
+## Status
+
+- in progress...
+
+## Description
+
+
+## Getting Started
