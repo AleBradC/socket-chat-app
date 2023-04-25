@@ -1,19 +1,19 @@
-## Project Title
+# Project Title
 
 Socket Chat app
 
-## Dependencies
+# Dependencies
 
 - Node.js
 - Express.js
 - Socket.io
 - React.js
 
-## Status
+# Status
 
 - in progress...
 
-## Description
+# Description
 
 
-## Getting Started
+# Getting Started
