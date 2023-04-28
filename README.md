@@ -9,11 +9,11 @@ Socket Chat app
 - Socket.io
 - React.js
 
-# Status
-
-- in progress...
-
 # Description
+- simple chat app
 
 
 # Getting Started
+- clone the project
+- npm i -> in client & server file
+- npm run dev -> to run the server and client
