@@ -16,4 +16,4 @@ Socket Chat app
 # Getting Started
 - clone the project
 - npm i -> in client & server file
-- npm run dev -> to run the server and client
+- npm start -> to run the server and client
