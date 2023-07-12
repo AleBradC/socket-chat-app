@@ -10,10 +10,12 @@ Socket Chat app
 - React.js
 
 # Description
+
 - simple chat app
 
-
 # Getting Started
+
 - clone the project
-- npm i -> in client & server file
+- cd client - npm i
+- cd server - npm i
 - npm start -> to run the server and client
