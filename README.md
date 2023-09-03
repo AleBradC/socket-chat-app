@@ -1,21 +1,21 @@
-# Project Title
+# Socket Chat App
 
-Socket Chat app
-
-# Dependencies
+## Dependencies
 
 - Node.js
 - Express.js
 - Socket.io
 - React.js
 
-# Description
+## Description
 
-- simple chat app
+A simple chat app.
 
-# Getting Started
+## Getting Started
 
-- clone the project
-- cd client - npm i
-- cd server - npm i
-- npm start -> to run the server and client
+Follow these steps to get started with the project:
+
+1. Clone the project.
+2. Install the required dependencies by running `npm install`.
+3. Run the client `npm run start`
+4. Run the server `npm run start`
